@@ -1,14 +1,9 @@
 cv:
   name: Giulia Torcolacci
-  label: Telecommunications Engineer and Researcher
+  headline: Telecommunications Engineer and Researcher
   email: giulia.torcolacci@hotmail.it
-  phone: "+39-3332307001"
   location: Bologna, Italy
   website: https://www.unibo.it/sitoweb/g.torcolacci
-  summary: >
-    Researcher in wireless communications focused on 6G Smart Radio Environments,
-    near-field signal processing, RIS-enabled architectures, holographic MIMO,
-    and wireless imaging.
 
   social_networks:
     - network: LinkedIn
@@ -28,7 +23,7 @@ cv:
         start_date: 2024-10
         end_date: 2025-04
         highlights:
-          - Led research project on a novel RIS-based antenna architecture for multi-user MIMO systems under 6G requirements.
+          - Led research on a novel RIS-based antenna architecture for multi-user MIMO systems under 6G requirements.
           - Developed a MATLAB simulator to assess performance gains of reconfigurable metasurface antennas for 6G networks.
 
       - company: National Laboratory of Wireless Communications (WiLab-CNIT) and University of Bologna
@@ -39,23 +34,25 @@ cv:
         highlights:
           - Investigated autoencoder-based deep learning techniques for end-to-end PHY layer modeling in 6G Smart Radio Environments.
           - Developed and validated TensorFlow models under wireless constraints for symbol recovery.
-          - Explored OAM-based waves for near-field spatial multiplexing in 6G Holographic MIMO and developed MATLAB simulation pipelines.
+          - Explored OAM-based waves for near-field spatial multiplexing in 6G Holographic MIMO.
+          - Developed MATLAB simulators for transmitter processing (including beam focusing) and multi-receiver detection schemes.
 
     Education:
       - institution: University of Bologna
         location: Bologna, Italy
         area: Electronics, Telecommunications, and Information Technologies Engineering
-        studyType: Ph.D.
+        degree: "Ph.D. in Electronics, Telecommunications, and Information Technologies Engineering"
         start_date: 2022-11
         end_date: 2025-10
         highlights:
-          - Research on MIMO, RIS, and near-field processing for 6G SREs, including wireless imaging and metasurface-based architectures.
-          - Coordinated technical contributions across H2020 projects (TIMES, 6G-SHINE), the national RESTART project, and international collaborations.
+          - Research on MIMO, RIS, and near-field processing for 6G Smart Radio Environments, including wireless imaging and metasurface-based architectures.
+          - Coordinated technical contributions across H2020 projects (TIMES and 6G-SHINE), the national RESTART project, and international collaborations.
+          - Managed deliverables, timelines, and cross-team coordination.
 
       - institution: Italian Ministry of University and Research (MUR)
         location: Rome, Italy
         area: Information Engineering
-        studyType: Licensed Professional Engineer - Section A (Chartered Level)
+        degree: "Licensed Professional Engineer - Section A (Chartered Level), Information Engineering"
         start_date: 2023-11
         end_date: 2023-11
         highlights:
@@ -64,56 +61,29 @@ cv:
       - institution: University of Bologna
         location: Bologna, Italy
         area: Telecommunications Engineering
-        studyType: Master's Degree
+        degree: "Master's Degree in Telecommunications Engineering"
         start_date: 2020-10
         end_date: 2022-10
         highlights:
-          - Final grade: 110/110 with honors.
-          - Average exam grade: 29.92/30.
+          - "Final grade: 110/110 with honors (summa cum laude)."
+          - "Average exam grade: 29.92/30 (7 out of 12 exams passed with honors)."
 
       - institution: University of Bologna
         location: Bologna, Italy
         area: Electronics and Telecommunications Engineering
-        studyType: Bachelor's Degree
+        degree: "Bachelor's Degree in Electronics and Telecommunications Engineering"
         start_date: 2017-09
         end_date: 2020-12
 
-    Awards:
-      - title: Exemplary Reviewer 2023 of IEEE Wireless Communications Letters
-        date: 2023-12
-        awarder: IEEE Communications Society
-
-      - title: Graduation Merit Award
-        date: 2022-12
-        awarder: University of Bologna
-        summary: Merit-based award conferred for academic excellence and civic engagement during graduate studies.
+    "Awards & Honors":
+      - bullet: "Exemplary Reviewer 2023 of IEEE Wireless Communications Letters (IEEE Communications Society), December 2023."
+      - bullet: "Graduation Merit Award, University of Bologna, December 2022 (for academic excellence and civic engagement during graduate studies)."
 
     Skills:
-      - name: Programming and Simulation
-        level: Advanced
-        keywords:
-          - MATLAB
-          - Python
-          - System-level simulations
-          - C/C++/Embedded C (basic)
-
-      - name: Project Management
-        level: Advanced
-        keywords:
-          - Interdisciplinary collaboration
-          - Timeline and resource planning
-          - Milestone definition
-          - KPI definition
-
-      - name: Soft Skills
-        level: Strong
-        keywords:
-          - Leadership
-          - Self-motivation
-          - Prioritization
-          - Active listening
-          - Emotional acumen
-          - Collaborative mindset
+      - bullet: "Languages: Italian (native), English (C1), German (A1)."
+      - bullet: "Programming: MATLAB (advanced), Python (advanced), system-level simulations (advanced), C/C++/Embedded C (basic)."
+      - bullet: "Soft skills: driven leadership, self-motivation, effective prioritization, active listening, emotional acumen, collaborative mindset."
+      - bullet: "Project management: interdisciplinary collaboration and coordination, timeline and resource planning, milestone and KPI definition."
 
     Languages:
       - name: Italian
@@ -123,29 +93,66 @@ cv:
       - name: German
         summary: A1
 
-    Publications:
-      - title: Full publication list available in dedicated pages
-        publisher: Publications are rendered from BibTeX in Journals, Conferences, and Project Deliverables sections.
-        releaseDate: 2026
-        summary: Please see the Publications menu for the up-to-date categorized list.
+    "Journal Publications":
+      - bullet: "G. Torcolacci and D. Dardari, OAM-based Communications with Stacked Intelligent Metasurfaces, under preparation for IEEE Transactions on Wireless Communications, October 2025."
+      - bullet: "D. Dardari, G. Torcolacci, G. Pasolini, and N. Decarli, Over-the-air electromagnetic signal processing: From fundamentals to emerging paradigms, IEEE Signal Processing Magazine, vol. 43, no. 1, pp. 6-28, January 2026."
+      - bullet: "G. Torcolacci, M. Schellmann, and D. Dardari, RIS-Aided Beamfocusing for Active Feeder Architectures in Near-Field MU-MIMO, submitted to IEEE Open Journal of the Communications Society, August 2025."
+      - bullet: "E. Testi, G. Torcolacci, N. Decarli, D. Dardari, and E. Paolini, Coded Spatial Random Access in the Near Field, IEEE Internet of Things Journal, vol. 12, no. 15, pp. 29472-29484, August 2025."
+      - bullet: "H. Zhang, N. Shlezinger, G. Torcolacci, F. Guidi, A. Guerra, Q. Yang, M. Imani, D. Dardari, and Y. Eldar, Extremely Large-Scale Dynamic Metasurface Antennas for 6G Near-Field Networks: Opportunities and Challenges, submitted to IEEE Vehicular Technology Magazine, July 2025."
+      - bullet: "G. Torcolacci, A. Guerra, H. Zhang, F. Guidi, Q. Yang, Y. C. Eldar, and D. Dardari, Holographic Imaging with XL-MIMO and RIS: Illumination and reflection design, IEEE Journal on Selected Topics in Signal Processing, vol. 18, no. 4, pp. 587-602, June 2024."
+      - bullet: "G. Torcolacci, N. Decarli, and D. Dardari, Holographic MIMO Communications Exploiting the Orbital Angular Momentum, IEEE Open Journal of the Communications Society, vol. 4, pp. 1452-1469, July 2023."
+
+    "Conference Publications":
+      - bullet: "K. Stylianopoulos, M. Fabiani, G. Torcolacci, D. Dardari, and G. C. Alexandropoulos, Over-The-Air Extreme Learning Machines with XL Reception via Nonlinear Cascaded Metasurfaces, International Zurich Seminar on Information and Communication, Zurich, Switzerland, pp. 148-153, February 2026."
+      - bullet: "M. Fabiani, G. Torcolacci, and D. Dardari, Nonlinear EM-based Signal Processing, to appear in Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, October 2025."
+      - bullet: "E. Testi, G. Torcolacci, N. Decarli, D. Dardari, and E. Paolini, A Grant-free Coded Random Access Scheme for Near-field Communications, IEEE ICC, Montreal, QC, Canada, pp. 1772-1777, June 2025."
+      - bullet: "G. Torcolacci, A. Guerra, H. Zhang, F. Guidi, Q. Yang, Y. C. Eldar, and D. Dardari, RIS-empowered Near-Field Imaging in NLOS Scenarios, IEEE ICC, Denver, CO, USA, pp. 378-383, June 2024."
+      - bullet: "G. Torcolacci, N. Decarli, and D. Dardari, OAM-based Holographic MIMO using Large Intelligent Surfaces, IEEE GLOBECOM, Rio de Janeiro, Brazil, pp. 651-655, December 2022."
+
+    "Technical Documents and Deliverables":
+      - bullet: "RESTART Structural Project S12 (Smart Radio Environments), Deliverable 12: Communications, Localization, and Sensing in SREs (Final Report), December 2025."
+      - bullet: "TIMES Deliverable 4.4: Multi-goal Mesh Network Optimization and Exploitation of Smart Propagation Environments, October 2025."
+      - bullet: "6G-SHINE Deliverable 3.3: Recommended PHY and MAC Enablers for in-X Subnetworks, June 2025."
+      - bullet: "RESTART Structural Project S12 (Smart Radio Environments), Deliverable 7: Communications, Localization, and Sensing in SREs (Intermediate Report), September 2024."
+      - bullet: "TIMES Deliverable 4.2: Intermediate Report on Multi-goal Mesh Network Optimization and Exploitation of Smart Propagation Environments, June 2024."
+      - bullet: "6G-SHINE Deliverable 3.2: RIS Technologies and Models for in-X Subnetworks, February 2024."
+      - bullet: "RESTART Structural Project S12 (Smart Radio Environments), Deliverable 2: Communications, Localization, and Sensing in SREs (Initial Report), June 2023."
+
+    Thesis:
+      - bullet: "Ph.D. thesis in Electronics, Telecommunications, and Information Technologies Engineering (University of Bologna), expected October 2025."
 
     "Conference Organization and Technical Roles":
-      - bullet: Technical Program Committee Member, IEEE VTC Fall 2026 (Satellite, UAV and Maritime Networks, and Wireless Localization track).
-      - bullet: Local Arrangements Chair, European Wireless Conference 2026, Rimini.
-      - bullet: Technical Program Committee Member, IEEE VTC Spring 2026 (Satellite Systems, Positioning Technologies, Localization and Navigation track).
-      - bullet: Technical Program Committee Member, IEEE ICC 2026 (Wireless Communications track).
-      - bullet: Session Chair, IEEE ICC 2024 and IEEE SPAWC 2024.
+      - bullet: "TPC Member, Satellite, UAV, and Maritime Networks and Wireless Localization Track, IEEE VTC Fall 2026, Boston, USA."
+      - bullet: "Local Arrangements Chair, European Wireless Conference 2026, Rimini, Italy."
+      - bullet: "TPC Member, Satellite Systems, Positioning Technologies, Localization and Navigation Track, IEEE VTC Spring 2026, Nice, France."
+      - bullet: "TPC Member, Space, Non-terrestrial, Airborne, and Maritime Mobile Systems and Services Track, IEEE VTC Spring 2026, Nice, France."
+      - bullet: "TPC Member, Wireless Communications Track, IEEE ICC 2026, Glasgow, Scotland, UK."
+      - bullet: "TPC Member, SAC Reconfigurable Intelligent Surfaces and Holographic MIMO Track, IEEE ICC 2026, Glasgow, Scotland, UK."
+      - bullet: "Session Chair, The New Technologies Track, RESTART Final Plenary Dissemination Event, Rome, Italy, January 2026."
+      - bullet: "TPC Member, Positioning, Navigation, and Sensing Track, IEEE VTC Spring 2025, Oslo, Norway."
+      - bullet: "Session Chair, IEEE ICC 2024, Denver, Colorado, USA."
+      - bullet: "Session Chair, IEEE SPAWC 2024, Lucca, Italy."
 
     Grants:
-      - bullet: Student Travel Grant funded by IEEE SPS for IEEE SPAWC 2024.
-      - bullet: Student Travel Grant funded by IEEE WICE for IEEE GLOBECOM 2022.
+      - bullet: "Student Travel Grant funded by IEEE Signal Processing Society for IEEE SPAWC 2024, Lucca, Italy."
+      - bullet: "Student Travel Grant funded by IEEE Women in Communications Engineering for IEEE GLOBECOM 2022, Rio de Janeiro, Brazil."
 
     "Invited Talks, Conference Contributions, and Scientific Dissemination":
-      - bullet: Oral presentations at IEEE ICC 2025 (Montreal), IEEE ICC 2024 (Denver), and IEEE GLOBECOM 2022 (Rio de Janeiro).
-      - bullet: Invited talks and project dissemination activities in RESTART national events and WiLab-CNIT gatherings (2023-2025).
-      - bullet: Poster and demo contributions at Italian GTTI annual meetings and RESTART plenary events.
+      - bullet: "Oral presentation, IEEE ICC 2025, Montreal, Canada, June 2025."
+      - bullet: "Oral presentation, IEEE ICC 2024, Denver, Colorado, USA, June 2024."
+      - bullet: "Oral presentation, IEEE GLOBECOM 2022, Rio de Janeiro, Brazil, December 2022."
+      - bullet: "Poster presentation, Italian Telecommunications and Information Technologies Group (GTTI) Annual Meeting, Bologna, September 2025."
+      - bullet: "Invited talk, Build Your Career, RESTART National Plenary Meeting, Naples, Italy, June 2025."
+      - bullet: "Project demo presentation, RESTART National Plenary Meeting, Naples, Italy, June 2025."
+      - bullet: "Poster presentation, GTTI Annual Meeting, Pisa, Italy, September 2024."
+      - bullet: "Invited talk, Nanni Costa_X. The X on the Innovation Map, Opificio Golinelli, Bologna, Italy, November 2024."
+      - bullet: "Invited talk, WiLab-CNIT Annual Gathering, Bressanone, Italy, June 2024."
+      - bullet: "Invited talk, Marconi Day - Marconi 150!, Fondazione Guglielmo Marconi, Bologna, Italy, April 2024."
+      - bullet: "Poster presentation, RESTART National Plenary Meeting, Bologna, Italy, January 2024."
+      - bullet: "Poster presentation, GTTI Annual Meeting, Rome, Italy, September 2023."
+      - bullet: "Invited talk, WiLab-CNIT Annual Gathering, Campitello di Fassa, Italy, June 2023."
 
     "Teaching Assistance":
-      - bullet: Communication Systems: Theory and Measurements (MSc), University of Bologna, 2022-2025.
-      - bullet: Digital Communications and Internet (BSc), University of Bologna, Cesena Campus, 2022-2025.
-      - bullet: Telecommunications Systems (MSc), University of Bologna, Cesena Campus, 2022-2025.
+      - bullet: "Communication Systems: Theory and Measurements (MSc), University of Bologna, Bologna Campus, Sep. 2022 - Oct. 2025. Conducted frontal lectures and MATLAB-based lab sessions for about 70 MSc students per year; administered assessments and exams."
+      - bullet: "Digital Communications and Internet (BSc), University of Bologna, Cesena Campus, Sep. 2022 - Oct. 2025. Conducted instrument-based lab sessions (oscilloscope and spectrum analyzer) for about 40 BSc students per year; administered assessments and exams."
+      - bullet: "Telecommunications Systems (MSc), University of Bologna, Cesena Campus, Sep. 2022 - Oct. 2025. Conducted MATLAB-based lab sessions for about 20 MSc students per year; administered assessments and exams."

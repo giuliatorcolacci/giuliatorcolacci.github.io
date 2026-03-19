@@ -5,17 +5,17 @@
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% if site.title == 'blank' %}
-            {% if site.first_name %}
-              <span class="font-weight-bold">
+            <span class="font-weight-bold">
+              {% if site.first_name %}
                 {{- site.first_name -}}
-              </span>
-            {% endif %}
-            {% if site.middle_name %}
-              {{- site.middle_name -}}
-            {% endif %}
-            {% if site.last_name %}
-              {{- site.last_name -}}
-            {% endif %}
+              {% endif %}
+              {% if site.middle_name %}
+                {{- ' ' -}}{{- site.middle_name -}}
+              {% endif %}
+              {% if site.last_name %}
+                {{- ' ' -}}{{- site.last_name -}}
+              {% endif %}
+            </span>
           {% else %}
             {{- site.title -}}
           {% endif %}
@@ -121,7 +121,7 @@
             <!-- Search -->
             <li class="nav-item">
               <button id="search-toggle" title="Search" onclick="openSearchModal()">
-                <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span>
+                <span class="nav-link">Search <i class="fa-solid fa-magnifying-glass"></i></span>
               </button>
             </li>
           {% endif %}

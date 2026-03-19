@@ -14,3 +14,5 @@ Gemfile.lock
 node_modules/
 vendor
 .history/
+.vscode/
+vs_code_workspace.code-workspace

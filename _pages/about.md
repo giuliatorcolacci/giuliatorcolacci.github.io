@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Research
+title: Homepage
 permalink: /
 subtitle: Ph.D. in Electronics, Telecommunications, and Information Technologies Engineering
 
@@ -8,10 +8,6 @@ profile:
   align: right
   image: GT_photo.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>University of Bologna</p>
-    <p>DEI – "Guglielmo Marconi" Department</p>
-    <p>Bologna, Italy</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -38,9 +34,3 @@ My research activity combines theory and simulation for next-generation wireless
 - Reconfigurable Intelligent Surfaces (RIS)
 - Holographic and XL-MIMO systems
 - Over-the-air electromagnetic signal processing
-
-## Current Focus
-
-- Architectures and algorithms for multi-user near-field MIMO in 6G systems
-- RIS-aided beam focusing and imaging in NLOS scenarios
-- Cross-project technical coordination in international research collaborations

@@ -2,19 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Giulia Torcolacci # website title used in metadata and browser tabs
 first_name: Giulia
 middle_name: 
 last_name: Torcolacci
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: "__hidden__"
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  Official website of Giulia Torcolacci, Ph.D. researcher in telecommunications with a focus on 6G smart radio environments, RIS, XL-MIMO, and near-field wireless sensing.
+footer_text: "__hidden__"
+keywords: giulia torcolacci, telecommunications researcher, 6g, smart radio environments, ris, xl-mimo, near-field communications, wireless sensing, holographic mimo
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ✨ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -61,16 +57,16 @@ posts_in_search: false
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 1120px
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: /assets/img/GT_photo.jpg # Site-wide Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -91,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Giulia Torcolacci Blog # blog_name will be displayed in your blog page
+blog_description: Notes on wireless communications, signal processing, and research updates
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

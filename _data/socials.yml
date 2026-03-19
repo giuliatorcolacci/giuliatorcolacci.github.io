@@ -1,13 +1,10 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/cv_torcolacci_giulia.pdf # path to your CV PDF file
 email: giulia.torcolacci@hotmail.it # your email address
-github_username: giuliatorcolacci
 linkedin_username: giulia-torcolacci
+scholar_userid: S581pb8AAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-1173-3843
 research_gate_profile: Giulia-Torcolacci
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: S581pb8AAAAJ # your Google Scholar ID
 scopus_id: 58080827100
-work_url: https://www.unibo.it/sitoweb/g.torcolacci
+github_username: giuliatorcolacci
